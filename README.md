@@ -17,4 +17,4 @@ python main.py
 
 - [x] git init
 - [x] 第一次提交
-- [ ] 推送到 GitHub
+- [x] 推送到 GitHub
