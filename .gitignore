@@ -1,0 +1,15 @@
+# Python 运行产生的缓存，不需要提交
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+desktop.ini
